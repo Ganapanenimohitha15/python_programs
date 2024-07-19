@@ -8,4 +8,4 @@ while(n>0):
 if(temp==sum):
     print("Armstrong")
 else:
-    print("Not Armstrong")
+   print("Not Armstrong")
